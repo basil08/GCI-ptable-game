@@ -1,4 +1,4 @@
-##GUESS THE ELEMENT GAME.
+## GUESS THE ELEMENT GAME.
 
 This is a simple game that helps us to remember the periodic table.
 
